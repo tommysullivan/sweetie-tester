@@ -4,7 +4,9 @@ SweetieTester 0.0.2
 Write Tests:
 
     Tests must be expressed in a single file named spec.js. This file may contain any valid javascript.
-    There is a single testing function, which takes the form assert(message:String, testCondition:Boolean):Undefined
+    There is a single testing function, which takes the form:
+
+    assert(message:String, testCondition:Boolean):Undefined
 
 Example Test:
 
